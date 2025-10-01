@@ -9,6 +9,5 @@
 - 問卷調查
 - 文獻回顧
 - 實際案例分析
-![The San Juan Mountains are beautiful](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 ## 3. 結論
 AI 已經深刻影響我們的生活。
