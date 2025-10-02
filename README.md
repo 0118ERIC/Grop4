@@ -33,7 +33,7 @@ cmside 就是工程師希望將各種與產品開發的過程資料, 存放在�
 
 ## 5. 如何使用這些工具
 
-<img src="./202208041452587648434588.jpg" width="300" height="200">
+<img src="./202208041452587648434588.jpg" width="720" height="500">
 
 
 ![程式碼](https://github.com/0118ERIC/Grop4/blob/main/202208041452587648434588.jpg?raw=true)
