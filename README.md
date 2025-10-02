@@ -8,6 +8,11 @@
 ### 舉例
 你玩一個RPG遊戲，每次玩不同的職業都會在你做出任何事情的時候紀錄當下的角色狀態，並可以從當前節點加入新玩家，還可以玩之前的存檔玩出其他結局。
 ## 2. 那什麼又是GitHub呢
+<p align="center">
+  <img src="./github-logo.png" width="720" height="500">
+  <br>
+</p>
+
 ![GITHUB](https://github.com/0118ERIC/Grop4/blob/main/github-logo.png?raw=true)
 
 像是google的雲端硬碟，但他是專門儲存git的雲端硬碟加上社群平台，這樣如果有人對你的git有興趣，就可以直接從GitHub上交流，並且一起研究，且好的git在上面可能會對於世界有好的貢獻。
