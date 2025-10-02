@@ -3,7 +3,7 @@
 
 <span style="color:orange; font-weight:bold;">🔥 重要提醒！</span>
 
-<span style="color:orange; font-weight:bold;">[*我是網頁*](https://0118eric.github.io/Grop4/)
+[*我是網頁*](https://0118eric.github.io/Grop4/)
 ## 1. 什麼是GIT
 <p align="center">
   <img src="./istockphoto-1138108634-612x612.jpg" width="720" height="500">
