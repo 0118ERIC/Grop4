@@ -2,6 +2,12 @@
 # 什麼是Git,GitHub,Gist,cmside
 [*我是網頁*](https://0118eric.github.io/Grop4/)
 ## 1. 什麼是GIT
+<p align="center">
+  <img src="./istockphoto-1138108634-612x612.jpg" width="720" height="500">
+  <br>
+</p>
+
+
 ![RPG](https://github.com/0118ERIC/Grop4/blob/main/istockphoto-1138108634-612x612.jpg?raw=true)
 
 可以用來**追蹤**之前修改的文件訊息以及資料，也可以共同使用同一套資料與訊息，還可以從一個分支做出來在合併大版本。
