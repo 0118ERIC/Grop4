@@ -13,8 +13,6 @@
   <br>
 </p>
 
-![GITHUB](https://github.com/0118ERIC/Grop4/blob/main/github-logo.png?raw=true)
-
 像是google的雲端硬碟，但他是專門儲存git的雲端硬碟加上社群平台，這樣如果有人對你的git有興趣，就可以直接從GitHub上交流，並且一起研究，且好的git在上面可能會對於世界有好的貢獻。
 ### 所以
 **GitHub像是一個儲存git的圖書館！**
@@ -23,8 +21,6 @@
   <img src="./Sticky-notes-720x480.jpg" width="720" height="500">
   <br>
 </p>
-
-![便利貼](https://github.com/0118ERIC/Grop4/blob/main/Sticky-notes-720x480.jpg?raw=true)
 
 他是GitHub提供的一個小功能，他還是一個git，版本依然能看見改變，但是他很適合放小段程式碼、設定檔或筆記，而且每個gist都有網址。
 重要的是，他有公開/私密的功能，如果在上傳重要的短程式碼，將可以用這個快速的傳給他人，並讓資料的更改紀錄存在上面，方便修改。
