@@ -14,6 +14,11 @@
 ### 所以
 **GitHub像是一個儲存git的圖書館！**
 ## 3. 那什麼是Gist？
+<p align="center">
+  <img src="./Sticky-notes-720x480.jpg" width="720" height="500">
+  <br>
+</p>
+
 ![便利貼](https://github.com/0118ERIC/Grop4/blob/main/Sticky-notes-720x480.jpg?raw=true)
 
 他是GitHub提供的一個小功能，他還是一個git，版本依然能看見改變，但是他很適合放小段程式碼、設定檔或筆記，而且每個gist都有網址。
